@@ -1,3 +1,11 @@
+'''
+author: johhanzhang
+LastEditors: johhanzhang
+'''
+'''
+author: johhanzhang
+LastEditors: johhanzhang
+'''
 from viewer import SimpleViewer
 import numpy as np
 from Lab1_FK_answers import *
@@ -75,7 +83,7 @@ def main():
 
     # 请取消注释需要运行的代码
     # part1
-    # part1(viewer, bvh_file_path)
+    part1(viewer, bvh_file_path)
 
     # part2
     # part2_one_pose(viewer, bvh_file_path)
